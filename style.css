@@ -1,0 +1,9 @@
+svg{border:1px solid; 
+  max-width:500px;
+  display:block;
+  position:absolute;
+  margin:auto;
+  top:0;bottom:0;left:0;right:0;
+  
+  /*overflow:visible*/
+}
